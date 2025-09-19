@@ -1,0 +1,545 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadder8bit
+!s110 1755281023
+!i10b 1
+!s100 DJ9:D36Mlf8Y7Ml]@2FMh0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfMioCgReDf:aAzzDWVkFh1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/praba/Desktop/VLSI/Sim
+w1755279665
+8C:/Users/praba/Desktop/VLSI/adder8bit.v
+FC:/Users/praba/Desktop/VLSI/adder8bit.v
+!i122 17
+Z3 L0 1 10
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1755281023.000000
+!s107 C:/Users/praba/Desktop/VLSI/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/adder8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_testbench
+!s110 1755281390
+!i10b 1
+!s100 U=Dm_^K2CW=a36^YoQEQf3
+R0
+IUVh>`4^;TeK`bWlFWMBM^0
+R1
+R2
+w1755281383
+8C:/Users/praba/Desktop/VLSI/adder_testbench.v
+FC:/Users/praba/Desktop/VLSI/adder_testbench.v
+!i122 18
+L0 1 29
+R4
+r1
+!s85 0
+31
+!s108 1755281390.000000
+!s107 C:/Users/praba/Desktop/VLSI/adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/adder_testbench.v|
+!i113 1
+R5
+R6
+vAssignment_1
+!s110 1749664551
+!i10b 1
+!s100 n9[o^J3UEaF5FTd==>:X<0
+R0
+I[@4o<aQV>VO^[DnlM[;Kn0
+R1
+R2
+w1749663918
+8C:/Users/praba/Desktop/VLSI/Assgmnet1.v
+FC:/Users/praba/Desktop/VLSI/Assgmnet1.v
+!i122 4
+Z7 L0 2 8
+R4
+r1
+!s85 0
+31
+!s108 1749664551.000000
+!s107 C:/Users/praba/Desktop/VLSI/Assgmnet1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/Assgmnet1.v|
+!i113 1
+R5
+R6
+n@assignment_1
+vBitwise_operator
+!s110 1755106300
+!i10b 1
+!s100 RC@OZK:DHc:^J]Q^]fIc50
+R0
+IR?h@i[5Mi1WbAK1j_a5hZ3
+R1
+R2
+w1755106290
+8C:/Users/praba/Desktop/VLSI/bitwise_ope.v
+FC:/Users/praba/Desktop/VLSI/bitwise_ope.v
+!i122 11
+L0 1 32
+R4
+r1
+!s85 0
+31
+!s108 1755106300.000000
+!s107 C:/Users/praba/Desktop/VLSI/bitwise_ope.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/bitwise_ope.v|
+!i113 1
+R5
+R6
+n@bitwise_operator
+vComp_mul_2bit
+Z8 !s110 1757105579
+!i10b 1
+!s100 dVSOBcO@:nhP6^VeNjLkk0
+R0
+I5J@Q?4Ufi3>NAoRlJ^A;h1
+R1
+R2
+w1757014956
+8C:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v
+FC:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v
+!i122 45
+L0 1 33
+R4
+r1
+!s85 0
+31
+Z9 !s108 1757105579.000000
+!s107 C:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v|
+!i113 1
+R5
+R6
+n@comp_mul_2bit
+vd_ff_sync_rstn
+!s110 1756487737
+!i10b 1
+!s100 K1nDe0kK^JfRZmNYY^=7U1
+R0
+IeFOcZfWITSMT[>6=a8XW41
+R1
+R2
+w1756487609
+8C:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v
+FC:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v
+!i122 29
+L0 1 21
+R4
+r1
+!s85 0
+31
+!s108 1756487737.000000
+!s107 C:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v|
+!i113 1
+R5
+R6
+vhalf_adder_structrual
+!s110 1755539224
+!i10b 1
+!s100 Y6hmZEl=X]GAO[mmITkck0
+R0
+I1Xm;d3Nb5fR2j]37zl_Yh0
+R1
+R2
+w1755538739
+8C:/Users/praba/Desktop/VLSI/half_adder_structrual.v
+FC:/Users/praba/Desktop/VLSI/half_adder_structrual.v
+!i122 20
+R3
+R4
+r1
+!s85 0
+31
+!s108 1755539224.000000
+!s107 C:/Users/praba/Desktop/VLSI/half_adder_structrual.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/half_adder_structrual.v|
+!i113 1
+R5
+R6
+vhello_world
+!s110 1749664503
+!i10b 1
+!s100 kI[KO9OjEN_knEjF=>77U1
+R0
+Iij^YYB2WMTn=UXH_X3`Ff1
+R1
+R2
+w1749664488
+8C:\Users\praba\Desktop\VLSI\hello_world.v
+FC:\Users\praba\Desktop\VLSI\hello_world.v
+!i122 3
+R7
+R4
+r1
+!s85 0
+31
+!s108 1749664503.000000
+!s107 C:\Users\praba\Desktop\VLSI\hello_world.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\praba\Desktop\VLSI\hello_world.v|
+!i113 1
+R5
+R6
+vlogical_operators_usage
+!s110 1755111603
+!i10b 1
+!s100 RYKG<2R3l2ShdJ4V4FmkL3
+R0
+I^Ae3RQe0FXVW7nEckH3f:1
+R1
+R2
+w1755111588
+8C:/Users/praba/Desktop/VLSI/logical_operators_usage.v
+FC:/Users/praba/Desktop/VLSI/logical_operators_usage.v
+!i122 15
+Z10 L0 2 41
+R4
+r1
+!s85 0
+31
+!s108 1755111603.000000
+!s107 C:/Users/praba/Desktop/VLSI/logical_operators_usage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/logical_operators_usage.v|
+!i113 1
+R5
+R6
+vmultiple_procedure
+!s110 1749758242
+!i10b 1
+!s100 7jH8fC;>Iez;XiEj:TVD=0
+R0
+IFc`N@TV;9oh:BR9Xi_B4G1
+R1
+R2
+w1749758222
+8C:\Users\praba\Desktop\VLSI\multiple_procedures_assign3.v
+FC:\Users\praba\Desktop\VLSI\multiple_procedures_assign3.v
+!i122 8
+Z11 L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1749758242.000000
+!s107 C:\Users\praba\Desktop\VLSI\multiple_procedures_assign3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\praba\Desktop\VLSI\multiple_procedures_assign3.v|
+!i113 1
+R5
+R6
+vmux
+R8
+!i10b 1
+!s100 dk3DX41J=2feY8UEMe0^U1
+R0
+Iz=F1RoIm_:>>0nf@CnK8J0
+R1
+R2
+w1757016942
+8C:/Users/praba/Desktop/VLSI/mux.v
+FC:/Users/praba/Desktop/VLSI/mux.v
+!i122 44
+L0 1 19
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/praba/Desktop/VLSI/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/mux.v|
+!i113 1
+R5
+R6
+vmux_4x_nbit1
+!s110 1755994853
+!i10b 1
+!s100 MUcl6dVJ4hH3Pa9]8[egi2
+R0
+II:h9]2Fj3k]Ykzf>:XfCN0
+R1
+R2
+w1755994746
+8C:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v
+FC:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v
+!i122 26
+L0 1 23
+R4
+r1
+!s85 0
+31
+!s108 1755994853.000000
+!s107 C:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v|
+!i113 1
+R5
+R6
+vprocedures
+!s110 1755544929
+!i10b 1
+!s100 6LO:g14cbhlLhOP_=Sk>z3
+R0
+I>1K8C6UTeJEYK9XK_[Xn33
+R1
+R2
+w1755544920
+8C:/Users/praba/Desktop/VLSI/procedures_updated.v
+FC:/Users/praba/Desktop/VLSI/procedures_updated.v
+!i122 25
+L0 4 41
+R4
+r1
+!s85 0
+31
+!s108 1755544929.000000
+!s107 C:/Users/praba/Desktop/VLSI/procedures_updated.v|
+!s90 -reportprogress|300|-work|work|C:/Users/praba/Desktop/VLSI/procedures_updated.v|
+!i113 1
+R5
+R6
+vreduction_op
+!s110 1755108547
+!i10b 1
+!s100 1j5W]Jn[gd1>LP@>LEZF;2
+R0
+ICRU__I7Io<RkM3<SPaaFN1
+R1
+R2
+w1755108239
+8C:/Users/praba/Desktop/VLSI/reduction_op.v
+FC:/Users/praba/Desktop/VLSI/reduction_op.v
+!i122 12
+L0 1 18
+R4
+r1
+!s85 0
+31
+!s108 1755108547.000000
+!s107 C:/Users/praba/Desktop/VLSI/reduction_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/reduction_op.v|
+!i113 1
+R5
+R6
+vrelational_operators
+!s110 1755126012
+!i10b 1
+!s100 2<6SZUQQ;b9JfP8>XV>[j3
+R0
+I:eWcg_455LU<2[oIImRR[0
+R1
+R2
+w1755125977
+8C:/Users/praba/Desktop/VLSI/relational_op.v
+FC:/Users/praba/Desktop/VLSI/relational_op.v
+!i122 16
+L0 1 20
+R4
+r1
+!s85 0
+31
+!s108 1755126012.000000
+!s107 C:/Users/praba/Desktop/VLSI/relational_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/relational_op.v|
+!i113 1
+R5
+R6
+vROM_Comp
+R8
+!i10b 1
+!s100 VoKYN<IgU3j0;mh^N7]f71
+R0
+ICQ5ORCi^z?nM6]CW[2ca:3
+R1
+R2
+w1757016200
+8C:/Users/praba/Desktop/VLSI/ROM_Comp.v
+FC:/Users/praba/Desktop/VLSI/ROM_Comp.v
+!i122 42
+L0 1 42
+R4
+r1
+!s85 0
+31
+!s108 1757105578.000000
+!s107 C:/Users/praba/Desktop/VLSI/ROM_Comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/ROM_Comp.v|
+!i113 1
+R5
+R6
+n@r@o@m_@comp
+vROM_Multiplier
+R8
+!i10b 1
+!s100 QH`1TGF3I3C1aJF;mCOHC3
+R0
+Ie0j^`NFE7lGU5P8f?U@4g2
+R1
+R2
+w1756946626
+8C:/Users/praba/Desktop/VLSI/ROM_Multiplier.v
+FC:/Users/praba/Desktop/VLSI/ROM_Multiplier.v
+!i122 43
+L0 4 29
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/praba/Desktop/VLSI/ROM_Multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/ROM_Multiplier.v|
+!i113 1
+R5
+R6
+n@r@o@m_@multiplier
+vsum_product
+!s110 1749756660
+!i10b 1
+!s100 U65D<b5`CKjki9eFCA7Ya1
+R0
+IVZWhJTLng6_;Bg?o;`<S73
+R1
+R2
+w1749756654
+8C:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v
+FC:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v
+!i122 5
+L0 2 16
+R4
+r1
+!s85 0
+31
+!s108 1749756660.000000
+!s107 C:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v|
+!i113 1
+R5
+R6
+vtb_comp_mul_2bit
+R8
+!i10b 1
+!s100 _;e0P46ge0]9Nf0oF=c?D0
+R0
+ICYEPXZJ[>EH5a8?EgIC?V1
+R1
+R2
+w1757105558
+8E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v
+FE:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v
+!i122 46
+R10
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v|
+!i113 1
+R5
+R6
+vtb_d_dff_rstn
+!s110 1756487715
+!i10b 1
+!s100 NS^0V;C9TeO_H4XFFm`KS0
+R0
+IJHDzegKVf50`D[d:nEZ<W0
+R1
+R2
+w1756487634
+8C:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v
+FC:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v
+!i122 28
+L0 2 46
+R4
+r1
+!s85 0
+31
+!s108 1756487714.000000
+!s107 C:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v|
+!i113 1
+R5
+R6
+vtb_mux_4x_nbit
+!s110 1755995444
+!i10b 1
+!s100 Bggg4??fV<gO3AS<:KNV83
+R0
+I548Yb?khoa25gnK^>YR2J3
+R1
+R2
+w1755995430
+8C:/Users/praba/Desktop/VLSI/tb_mux_4x_nbit.v
+FC:/Users/praba/Desktop/VLSI/tb_mux_4x_nbit.v
+!i122 27
+L0 2 37
+R4
+r1
+!s85 0
+31
+!s108 1755995444.000000
+!s107 C:/Users/praba/Desktop/VLSI/tb_mux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/tb_mux_4x_nbit.v|
+!i113 1
+R5
+R6
+vtestbench
+!s110 1755540095
+!i10b 1
+!s100 fan:H7Iz67_?4@hXRU=EZ1
+R0
+IbnEAo^9]dGEHH01`4m0Nd2
+R1
+R2
+w1755540084
+8C:/Users/praba/Desktop/VLSI/half_adder_Tb.v
+FC:/Users/praba/Desktop/VLSI/half_adder_Tb.v
+!i122 21
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1755540095.000000
+!s107 C:/Users/praba/Desktop/VLSI/half_adder_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/half_adder_Tb.v|
+!i113 1
+R5
+R6
+vwaveforms
+!s110 1755534971
+!i10b 1
+!s100 ?Mn>fE4LYG[P>4I3FQBJZ0
+R0
+IXc<SgmcloHj79XUWdWS_73
+R1
+R2
+w1755534886
+8C:/Users/praba/Desktop/VLSI/waveforms.v
+FC:/Users/praba/Desktop/VLSI/waveforms.v
+!i122 19
+R11
+R4
+r1
+!s85 0
+31
+!s108 1755534971.000000
+!s107 C:/Users/praba/Desktop/VLSI/waveforms.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/praba/Desktop/VLSI/waveforms.v|
+!i113 1
+R5
+R6

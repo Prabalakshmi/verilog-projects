@@ -1,0 +1,133 @@
+# Compile of tb_comp_mul_2bit.v was successful.
+vsim -gui work.tb_comp_mul_2bit
+# vsim -gui work.tb_comp_mul_2bit 
+# Start time: 14:28:54 on Sep 04,2025
+# Loading work.tb_comp_mul_2bit
+# Loading work.Comp_mul_2bit
+# Loading work.ROM_Comp
+# Loading work.ROM_Multiplier
+# Loading work.mux
+run -all
+# a=xx,b=xx,PB0=x,led=xxxx
+# ** Note: $stop    : C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v(25)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_comp_mul_2bit
+# Break in Module tb_comp_mul_2bit at C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v line 25
+quit -sim
+# End time: 14:29:39 on Sep 04,2025, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 2
+project open C:/Users/praba/Desktop/VLSI/Sim/hardware_design
+project open C:/Users/praba/Desktop/VLSI/Sim/hardware_design
+# Compile of tb_comp_mul_2bit.v was successful.
+vsim -gui work.tb_comp_mul_2bit
+# vsim -gui work.tb_comp_mul_2bit 
+# Start time: 14:30:34 on Sep 04,2025
+# Loading work.tb_comp_mul_2bit
+# Loading work.Comp_mul_2bit
+# Loading work.ROM_Comp
+# Loading work.ROM_Multiplier
+# Loading work.mux
+# Load canceled
+run -all
+# a=xx,b=xx,PB0=x,led=xxxx
+# a=01,b=11,PB0=0,led=0100
+# a=11,b=11,PB0=0,led=0001
+# a=11,b=01,PB0=0,led=0010
+# ** Note: $stop    : C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v(25)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_comp_mul_2bit
+# Break in Module tb_comp_mul_2bit at C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v line 25
+quit -sim
+# End time: 14:33:34 on Sep 04,2025, Elapsed time: 0:03:00
+# Errors: 0, Warnings: 2
+# Compile of tb_comp_mul_2bit.v was successful.
+vsim -gui work.tb_comp_mul_2bit
+# vsim -gui work.tb_comp_mul_2bit 
+# Start time: 14:34:06 on Sep 04,2025
+# Loading work.tb_comp_mul_2bit
+# Loading work.Comp_mul_2bit
+# Loading work.ROM_Comp
+# Loading work.ROM_Multiplier
+# Loading work.mux
+run -all
+# a=xx,b=xx,PB0=x,led=xxxx
+# a=01,b=11,PB0=0,led=0100
+# a=11,b=11,PB0=0,led=0001
+# a=11,b=01,PB0=0,led=0010
+# a=01,b=11,PB0=1,led=0011
+# ** Note: $stop    : C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v(26)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_comp_mul_2bit
+# Break in Module tb_comp_mul_2bit at C:/Users/praba/Desktop/VLSI/tb_comp_mul_2bit.v line 26
+quit -sim
+# End time: 14:34:30 on Sep 04,2025, Elapsed time: 0:00:24
+# Errors: 0, Warnings: 2
+# Compile of tb_comp_mul_2bit.v was successful.
+vsim -gui work.tb_comp_mul_2bit
+# vsim -gui work.tb_comp_mul_2bit 
+# Start time: 10:46:33 on Sep 05,2025
+# Loading work.tb_comp_mul_2bit
+# Loading work.Comp_mul_2bit
+# Loading work.ROM_Comp
+# Loading work.ROM_Multiplier
+# Loading work.mux
+run -all
+# a=11,b=11,PB0=1,led=1001
+# ** Note: $stop    : E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v(37)
+#    Time: 20 ns  Iteration: 0  Instance: /tb_comp_mul_2bit
+# Break in Module tb_comp_mul_2bit at E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v line 37
+run -all
+quit -sim
+# End time: 10:48:37 on Sep 05,2025, Elapsed time: 0:02:04
+# Errors: 0, Warnings: 4
+# Compile of ROM_Comp.v was successful.
+# Compile of ROM_Multiplier.v was successful.
+# Compile of mux.v was successful.
+# Compile of Comp_mul_2bit.v was successful.
+# Compile of tb_comp_mul_2bit.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.tb_comp_mul_2bit
+# vsim -gui work.tb_comp_mul_2bit 
+# Start time: 14:53:27 on Sep 05,2025
+# Loading work.tb_comp_mul_2bit
+# Loading work.Comp_mul_2bit
+# Loading work.ROM_Comp
+# Loading work.ROM_Multiplier
+# Loading work.mux
+run -all
+# a=00,b=00,PB0=0,led=0001
+# a=00,b=00,PB0=1,led=0000
+# a=00,b=01,PB0=0,led=0100
+# a=00,b=01,PB0=1,led=0000
+# a=00,b=10,PB0=0,led=0100
+# a=00,b=10,PB0=1,led=0000
+# a=00,b=11,PB0=0,led=0100
+# a=00,b=11,PB0=1,led=0000
+# a=01,b=00,PB0=0,led=0010
+# a=01,b=00,PB0=1,led=0000
+# a=01,b=01,PB0=0,led=0001
+# a=01,b=01,PB0=1,led=0001
+# a=01,b=10,PB0=0,led=0100
+# a=01,b=10,PB0=1,led=0010
+# a=01,b=11,PB0=0,led=0100
+# a=01,b=11,PB0=1,led=0011
+# a=10,b=00,PB0=0,led=0010
+# a=10,b=00,PB0=1,led=0000
+# a=10,b=01,PB0=0,led=0010
+# a=10,b=01,PB0=1,led=0010
+# a=10,b=10,PB0=0,led=0001
+# a=10,b=10,PB0=1,led=0100
+# a=10,b=11,PB0=0,led=0100
+# a=10,b=11,PB0=1,led=0110
+# a=11,b=00,PB0=0,led=0010
+# a=11,b=00,PB0=1,led=0000
+# a=11,b=01,PB0=0,led=0010
+# a=11,b=01,PB0=1,led=0011
+# a=11,b=10,PB0=0,led=0010
+# a=11,b=10,PB0=1,led=0110
+# a=11,b=11,PB0=0,led=0001
+# a=11,b=11,PB0=1,led=1001
+# ** Note: $stop    : E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v(38)
+#    Time: 340 ns  Iteration: 0  Instance: /tb_comp_mul_2bit
+# Break in Module tb_comp_mul_2bit at E:/BSU/Digital Hardware Design/tb_comp_mul_2bit.v line 38
+quit -sim
+# End time: 12:23:26 on Sep 06,2025, Elapsed time: 21:29:59
+# Errors: 0, Warnings: 2
+cd C:/Users/praba/Desktop/axi_pwm_day1

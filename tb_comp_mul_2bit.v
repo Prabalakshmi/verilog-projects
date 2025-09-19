@@ -1,0 +1,30 @@
+`timescale 1ns / 1ps 
+module tb_comp_mul_2bit();
+   reg [1:0]a;
+   reg [1:0]b;
+   reg PB0;
+   wire [3:0] led;
+   
+   //connect the DUT 
+   
+   Comp_mul_2bit tb1 (
+     .a(a),
+	 .b(b),
+	 .PB0(PB0),
+	 .out(led)
+	 
+   );
+   
+   initial begin
+     $monitor("a=%b,b=%b,PB0=%b,led=%b",a,b,PB0,led);
+	 
+	 #10; a=2'b01;b=2'b11;PB0=1'b0;
+	 #10; a=2'b11;b=2'b11;PB0=1'b0;
+	 #10; a=2'b11;b=2'b01;PB0=1'b0;
+	 #10; a=2'b01;b=2'b11;PB0=1'b1;
+          #20;
+	 $stop;
+	 
+	 end
+	 
+endmodule

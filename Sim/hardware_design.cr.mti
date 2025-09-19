@@ -1,0 +1,29 @@
+C:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/Comp_mul_2bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comp_mul_2bit
+
+Top level modules:
+	Comp_mul_2bit
+
+} {} {}} C:/Users/praba/Desktop/VLSI/ROM_Multiplier.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/ROM_Multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_Multiplier
+
+Top level modules:
+	ROM_Multiplier
+
+} {} {}} C:/Users/praba/Desktop/VLSI/ROM_Comp.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/ROM_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_Comp
+
+Top level modules:
+	ROM_Comp
+
+} {} {}} C:/Users/praba/Desktop/VLSI/mux.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}}

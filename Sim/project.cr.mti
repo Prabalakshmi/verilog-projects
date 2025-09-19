@@ -1,0 +1,100 @@
+C:/Users/praba/Desktop/VLSI/logical_operators_usage.v {2 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/logical_operators_usage.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logical_operators_usage
+** Warning: C:/Users/praba/Desktop/VLSI/logical_operators_usage.v(4): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	logical_operators_usage
+
+} {} {}} C:/Users/praba/Desktop/VLSI/adder_testbench.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/adder_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_testbench
+
+Top level modules:
+	adder_testbench
+
+} {} {}} C:/Users/praba/Desktop/VLSI/adder8bit.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/adder8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder8bit
+
+Top level modules:
+	adder8bit
+
+} {} {}} C:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/d_ff_sync_rstn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff_sync_rstn
+
+Top level modules:
+	d_ff_sync_rstn
+
+} {} {}} C:/Users/praba/Desktop/VLSI/relational_op.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/relational_op.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module relational_operators
+
+Top level modules:
+	relational_operators
+
+} {} {}} C:/Users/praba/Desktop/VLSI/waveforms.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/waveforms.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module waveforms
+
+Top level modules:
+	waveforms
+
+} {} {}} C:/Users/praba/Desktop/VLSI/half_adder_structrual.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/half_adder_structrual.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder_structrual
+
+Top level modules:
+	half_adder_structrual
+
+} {} {}} C:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/tb_d_dff_rstn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_d_dff_rstn
+
+Top level modules:
+	tb_d_dff_rstn
+
+} {} {}} C:/Users/praba/Desktop/VLSI/half_adder_Tb.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/half_adder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/mux_4x_nbit1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4x_nbit1
+
+Top level modules:
+	mux_4x_nbit1
+
+} {} {}} C:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/Assignment_2_sumprod.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sum_product
+
+Top level modules:
+	sum_product
+
+} {} {}} C:/Users/praba/Desktop/VLSI/reduction_op.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/reduction_op.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reduction_op
+
+Top level modules:
+	reduction_op
+
+} {} {}} C:/Users/praba/Desktop/VLSI/Assgmnet1.v {1 {vlog -work work -stats=none C:/Users/praba/Desktop/VLSI/Assgmnet1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Assignment_1
+
+Top level modules:
+	Assignment_1
+
+} {} {}} C:/Users/praba/Desktop/VLSI/hello_world.v {1 {vlog -work work -stats=none {C:\Users\praba\Desktop\VLSI\hello_world.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hello_world
+
+Top level modules:
+	hello_world
+
+} {} {}}
